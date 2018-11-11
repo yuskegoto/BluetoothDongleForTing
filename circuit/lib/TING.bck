@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BT_Tastatur
+D EZ-KEY HID
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+Name: TING-Arduino-PC Test
+Publisher: Antwerpes
+Author: YG
+Book Version: 1
+URL: 
+ThumbMD5: 1591121f13f6c44288593e10d294c0ea
+FileMD5: fb05f23a776602cef6ba2a89da03fb10
+ScriptMD5: 930330d930f94af853fd24788e23de34
+Book Area Code: en
